@@ -1,16 +1,128 @@
-## Hi there 👋
+ Hi, I'm Junaid Gondal
 
-<!--
-**junaid-gondal/junaid-gondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Web Developer | Data Science Learner | Agentic AI Explorer
 
-Here are some ideas to get you started:
+I build practical web applications, explore data to discover meaningful insights, and experiment with intelligent AI agents. I'm continuously learning, building projects, and documenting my journey toward becoming a well-rounded software and AI engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Web Development: Responsive websites, React, Tailwind CSS, Node.js and REST APIs
+- Data Science: Python, NumPy, Pandas, Matplotlib.pyplot, seaborn data cleaning, EDA and visualization
+- Agentic AI: LLM integration, tool calling, agent workflows and memory
+- Current focus: Building projects that combine software development, data and AI
+- Based in: Pakistan
+
+---
+
+Tech Stack & Skills
+
+ Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+Data Science & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+Currently learning and practicing:
+- Python for data analysis
+- NumPy arrays and numerical computing
+- Pandas DataFrames and data manipulation
+- Data cleaning: missing values, duplicates, data types and outliers
+- Exploratory Data Analysis (EDA)
+- Descriptive statistics and correlation
+- Data visualization with Matplotlib and Seaborn
+- Business insights, sales analysis and KPI interpretation
+
+Next learning goals: SQL for analytics, probability, statistical inference, machine learning and model evaluation.
+
+Agentic AI & AI Agents
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+- Agentic AI fundamentals and AI agent workflows
+- LLM integration with Google Gemini
+- Tool calling and custom tools
+- LangChain and LangGraph fundamentals
+- Short-term and long-term agent memory
+- API integrations, JSON data handling and environment variables
+- Weather, GitHub and other API-based tool experiments
+
+ Tools & Development Environment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+ Featured Projects
+
+ Retail Sales Analysis
+
+An exploratory analysis of a real-world retail dataset containing 51,290 records.
+
+- Cleaned and prepared data using Pandas
+- Explored sales, profit, categories and shipping performance
+- Created visualizations using Matplotlib and Seaborn
+- Derived business insights from retail performance metrics
+
+[View Project →](https://github.com/junaid-gondal/Retail-sales-analysis)**
+Spice Garden Restaurant
+
+A premium restaurant website project focused on elegant UI, responsive design, menu browsing, gallery, contact and reservations.
+
+[Explore My Repositories →](https://github.com/junaid-gondal?tab=repositories)**
+
+ AI Agent Experiments
+
+Exploring tool calling, LLM integrations, memory systems and API-connected agent workflows.
+
+[Explore My Repositories →](https://github.com/junaid-gondal?tab=repositories)**
+
+---
+
+📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid-gondal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaid-gondal&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=junaid-gondal&theme=tokyonight&hide_border=true)
+
+---
+ My Learning Philosophy
+
+I believe in learning by building. Every project helps me strengthen my fundamentals, solve practical problems and move closer to my long-term goal of becoming a skilled developer working across web technologies, data science and AI.
+
+Learn → Build → Analyze → Improve → Repeat**
+
+---
+
+ 🤝 Let's Connect
+
+I'm open to learning opportunities, collaboration, and meaningful projects.
+
+GitHub: [@junaid-gondal](https://github.com/junaid-gondal)
+
+⭐ If you find my work interesting, explore my repositories and follow my journey.
+
+---
+
+Building today. Learning every day. Creating what's next.
