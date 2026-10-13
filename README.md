@@ -1,4 +1,7 @@
- Hi, I'm Junaid Gondal
+<div align="center">
+  <img src="banner.png" alt="Junaid Gondal | Web Development, Data Science and Agentic AI" width="100%" />
+</div> 
+Hi, I'm Junaid Gondal
 
  Web Developer | Data Science Learner | Agentic AI Explorer
 
