@@ -16,6 +16,9 @@ I enjoy building modern web applications, discovering insights from data, and ex
 My philosophy: Build. Analyze. Innovate.
 
 [🌐 Projects](#-featured-projects) · [💻 Tech Stack](#-tech-stack) · [📊 Data Science](#-data-science) · [🤖 Agentic AI](#-agentic-ai) · [📈 GitHub Stats](#-github-statistics)
+
+
+
 Tech Stack & Skills
 
  Web Development
