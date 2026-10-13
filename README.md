@@ -1,20 +1,21 @@
 <div align="center">
   <img src="banner.png" alt="Junaid Gondal | Web Development, Data Science and Agentic AI" width="100%" />
 </div> 
-Hi, I'm Junaid Gondal
 
- Web Developer | Data Science Learner | Agentic AI Explorer
+ 👋 Hey, I'm Junaid Gondal
 
-I build practical web applications, explore data to discover meaningful insights, and experiment with intelligent AI agents. I'm continuously learning, building projects, and documenting my journey toward becoming a well-rounded software and AI engineer.
+Web Developer · Data Science Learner · Agentic AI Explorer
 
--  Web Development: Responsive websites, React, Tailwind CSS, Node.js and REST APIs
-- Data Science: Python, NumPy, Pandas, Matplotlib.pyplot, seaborn data cleaning, EDA and visualization
-- Agentic AI: LLM integration, tool calling, agent workflows and memory
-- Current focus: Building projects that combine software development, data and AI
-- Based in: Pakistan
+I enjoy building modern web applications, discovering insights from data, and exploring intelligent AI agents. I'm focused on learning by building practical projects and continuously improving my development skills.
 
----
+-  Building responsive web applications and exploring full-stack development
+-  Learning data analysis, statistics, and data visualization with Python
+-  Exploring LLMs, AI agents, tool calling, and agent memory
+-  Growing through hands-on projects and consistent learning
 
+My philosophy: Build. Analyze. Innovate.
+
+[🌐 Projects](#-featured-projects) · [💻 Tech Stack](#-tech-stack) · [📊 Data Science](#-data-science) · [🤖 Agentic AI](#-agentic-ai) · [📈 GitHub Stats](#-github-statistics)
 Tech Stack & Skills
 
  Web Development
